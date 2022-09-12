@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsthaModi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing B.Tech ICT
+- 🌱 I’m currently pursuing MS CS at USC.
 - 💞️ I’m looking to collaborate on internships of Data Science.
 - 📫 You can reach me via mail: astha1809modi@gmail.com
 
