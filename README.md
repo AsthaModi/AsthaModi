@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsthaModi
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Software Engineering, and Data Engineering.
 - 🌱 I’m currently pursuing MS CS at USC.
-- 💞️ I’m looking to collaborate on internships of Data Science.
+- 💼 I’m actively seeking opportunities in Software Engineering, Data Engineering, and Data Science. Open to internships and full-time roles.
 - 📫 You can reach me via mail: astha1809modi@gmail.com
 
 <!---
